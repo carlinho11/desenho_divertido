@@ -14,7 +14,7 @@ class AcessoRepository {
       String hora =
           "${DateTime.now().hour.toString().padLeft(2, '0')}:${DateTime.now().minute.toString().padLeft(2, '0')}";
 
-      final response = await dio.get("${UnityConfig.URL}/$data&$hora&$info");
+      final response = await dio.get("${UnityConfig.url}/$data&$hora&$info");
 
       log(response.data);
     } catch (e) {
