@@ -9,15 +9,11 @@ class AppWidget extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Desenho Divertido',
       initialRoute: '/',
-
       localizationsDelegates: const [
         DefaultMaterialLocalizations.delegate,
         DefaultCupertinoLocalizations.delegate,
         DefaultWidgetsLocalizations.delegate,
       ],
-      //supportedLocales: [
-      //const Locale('pt', 'BR')
-      //],
       theme: ThemeData(
         fontFamily: 'Montserrat',
         primarySwatch: Colors.brown,
