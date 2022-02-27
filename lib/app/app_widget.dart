@@ -7,7 +7,7 @@ class AppWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Pintura Livre',
+      title: 'Desenho Divertido',
       initialRoute: '/',
 
       localizationsDelegates: const [
