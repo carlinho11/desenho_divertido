@@ -1,8 +1,18 @@
 ## Desenho Divertido
 
-Controle o fluxo de pessoas ou lotação máxima de um local através de vários dispositivos sincronizados em tempo real.
+O Desenho é um aplicativo de desenho muito simples para você desenhar tudo o que você quer e, em seguida, compartilhar suas obras com os amigos.
 
 ![banner](https://user-images.githubusercontent.com/38302156/155972829-ec6af3ae-c89e-4eb8-be9a-9f4048976259.png)
+
+Ele lhe proporciona:
+
+- Total controle da cor;
+- Tamanho do pincel;
+- Opacidade;
+- Tirar Foto com a câmera;
+- Carregar imagem da galeria;
+
+Para você desenhar imagens bonitas se divertindo cada vez mais e salve suas imagens para visualizar e compartilhar mais tarde!
 
 <div>
     <img src='https://user-images.githubusercontent.com/38302156/155972916-2c896a84-c943-4daf-a008-1621ebfaa200.png' width=200px>
