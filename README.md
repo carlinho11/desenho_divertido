@@ -12,4 +12,4 @@ Controle o fluxo de pessoas ou lotação máxima de um local através de vários
 </div>
 
 
-Disponível pelo link: https://play.google.com/store/apps/details?id=com.carlosroberto.contador_presenca
+Disponível pelo link: https://play.google.com/store/apps/details?id=com.carlosroberto.pintura
