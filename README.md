@@ -1,4 +1,4 @@
-## Contador Inteligente
+## Desenho Divertido
 
 Controle o fluxo de pessoas ou lotação máxima de um local através de vários dispositivos sincronizados em tempo real.
 
