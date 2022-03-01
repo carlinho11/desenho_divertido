@@ -12,14 +12,13 @@ Ele lhe proporciona:
 - Tirar Foto com a câmera;
 - Carregar imagem da galeria;
 
-
 Para você desenhar imagens bonitas se divertindo cada vez mais e salve suas imagens para visualizar e compartilhar mais tarde!
 
 <div>
     <img src='https://user-images.githubusercontent.com/38302156/156259559-1f58900e-5e05-40ed-9acb-c2299940980b.png' width=200px>
-    <img src='https://user-images.githubusercontent.com/38302156/155972929-5eb9ca94-8929-4878-a163-3caf1284a92f.png' width=200px>
-    <img src='https://user-images.githubusercontent.com/38302156/155972993-c4847847-ab90-4af0-b41b-6f5532f02be2.png' width=200px>
-    <img src='https://user-images.githubusercontent.com/38302156/155973008-3df3bed8-8669-4f7e-a750-aef64477f7bf.png' width=200px>
+    <img src='https://user-images.githubusercontent.com/38302156/156259633-b3a4330d-41ed-491c-9765-9af99fdfb742.png' width=200px>
+    <img src='https://user-images.githubusercontent.com/38302156/156259642-1c8ebbb9-84d5-4905-b6a3-1a12df2a6c91.png' width=200px>
+    <img src='https://user-images.githubusercontent.com/38302156/156259649-ce9305a3-35c9-47f5-8e5c-6b6ea3c508be.png' width=200px>
 </div>
 
 
