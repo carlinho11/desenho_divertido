@@ -4,12 +4,11 @@ import 'dart:io';
 import 'package:device_info_plus/device_info_plus.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:flutter_modular/flutter_modular.dart';
 import 'package:mobx/mobx.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:pintura/app/models/Foto.dart';
-import 'package:pintura/app/repositories/acesso_repository.dart';
 import 'package:pintura/app/dados/foto_dados.dart';
+import 'package:pintura/app/repositories/acesso_repository.dart';
 import 'package:pintura/app/shared/utils/unity_config.dart';
 import 'package:share/share.dart';
 import 'package:shared_preferences/shared_preferences.dart';
@@ -20,7 +19,7 @@ part 'inicio_store.g.dart';
 class InicioStore = _InicioStoreBase with _$InicioStore;
 
 abstract class _InicioStoreBase with Store {
-  final AcessoRepository repository = AcessoRepository();
+  final AcessoRepository repository;
 
   final GlobalKey<ScaffoldState> scaffoldKey = GlobalKey<ScaffoldState>();
 
@@ -46,6 +45,8 @@ abstract class _InicioStoreBase with Store {
 
   @observable
   int posicao = 0;
+
+  _InicioStoreBase(this.repository);
 
   pegarPerfil() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
